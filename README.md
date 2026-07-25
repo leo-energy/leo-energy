@@ -1,4 +1,4 @@
-# Main
+# Profile
 
 # Hi there, I'm Leonardo Xi 👋 
 
