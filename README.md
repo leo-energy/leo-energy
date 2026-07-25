@@ -42,8 +42,8 @@ Below are selected open-source data pipelines, predictive modeling demos, and re
 | Repository | Tech Stack | Description | Status |
 | :--- | :--- | :--- | :--- |
 | **[Grid-Congestion-ML-Demo](https://github.com/leo-energy/BESS_Flexibility_ML)** | Python, SHAP, Scikit-learn | Explainable ML pipeline for price volatility & negative price forecasting ($R^2 = 0.9655$) | 🟢 Public Demo | | Python, SHAP, Scikit-learn | Explainable ML pipeline for price volatility & negative price forecasting ($R^2 = 0.9655$) | 🟢 Public Demo |
-| **[DEA-Efficiency-Toolkit](./)** | Python, Econometrics | SBM-DEA and dynamic efficiency evaluation scripts for energy assets | 🟢 Public Tool |
-| **[ENTSOE-Data-Pipeline](./)** | Python, ENTSO-E API | Scalable ingestion pipeline for hourly European power market data | 🟢 Public Tool |
+| **[DEA-Efficiency-Toolkit](https://github.com/leo-energy/DEA-Efficiency-Toolkit)** | Python, Econometrics | SBM-DEA and dynamic efficiency evaluation scripts for energy assets | 🟢 Public Tool |
+| **[ENTSOE-Data-Pipeline](https://github.com/leo-energy/ENTSOE-Data-Pipeline)** | Python, ENTSO-E API | Scalable ingestion pipeline for hourly European power market data | 🟢 Public Tool |
 
 ---
 
