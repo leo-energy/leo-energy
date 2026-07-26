@@ -51,4 +51,4 @@ My research models grid congestion forecasting within high-wind bidding zones (T
 
 - LinkedIn: [linkedin.com/in/leonardo-xi](https://www.linkedin.com/in/leonardo-xi)
 - Email: a92176@ualg.pt
-- ORCID: [0009-0007-4728-0256](https://orcid.ogr/0009-0007-4728-0256)
+- ORCID: [0009-0007-4728-0256](https://orcid.org/0009-0007-4728-0256)
