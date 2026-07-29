@@ -23,9 +23,9 @@ My doctoral research develops a tripartite cumulative framework bridging strateg
 
 ## 🎯 Erasmus+ Research Internship (2026–2027)
 
-I am actively seeking a **10‑month research traineeship** with Irish energy institutions (SEAI, EirGrid, ESB Networks, UCD Energy Institute, MaREI) to apply my data‑driven frameworks to Ireland’s wind‑dominated electricity system.
+I am actively seeking a **10‑month research traineeship** with energy institutions in **Ireland and across Europe** (SEAI, EirGrid, ESB Networks, UCD Energy Institute, MaREI, and other TSO/DSO/energy market organisations) to apply my data‑driven frameworks to wind‑dominated and high‑RES electricity systems.
 
-### 🍀 Why Ireland? — Direct Match for EirGrid Context
+### 🍀 Primary Focus: Ireland (Direct Match for EirGrid Context)
 
 | Irish Challenge | My Research Transferable Solution |
 |-----------------|-----------------------------------|
@@ -34,11 +34,20 @@ I am actively seeking a **10‑month research traineeship** with Irish energy in
 | Negative price event forecasting | RF + SHAP pipeline with structural break detection (Crisis_Dummy) |
 | Cross‑border interconnection efficiency | SBM‑DEA panel benchmarking across 28 EU member states |
 
+### 🍀 🇪🇺 Open to Wider European Opportunities
+
+My methodologies are transferable to any market with:
+- High renewable penetration and price volatility
+- Active flexibility / ancillary service markets
+- Cross‑border interconnection dynamics
+
+**Target regions**: Germany, Netherlands (TenneT), Nordics, Iberia (MIBEL), and other EU bidding zones.
+
 ### 📌 Current Status (Aug 2026)
+
 - ✅ **Research Portfolio**: Core methodological repositories are now populated and publicly accessible.
-- 🔄 **Mobility Seeking**: Actively exploring Erasmus+ research traineeship opportunities with Irish energy institutions (e.g., SEAI, EirGrid, UCD Energy Institute).
-- 📧 **Open to Collaboration**: a92176@ualg.pt
-  
+- 🔄 **Mobility Seeking**: Actively exploring Erasmus+ research traineeship opportunities with Irish and European energy institutions.
+- 📧 **Open to Collaboration**: [a92176@ualg.pt](mailto:a92176@ualg.pt)
 ---
 
 ## 🔬 Research Focus
