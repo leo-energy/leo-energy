@@ -34,6 +34,11 @@ I am actively seeking a **10‑month research traineeship** with Irish energy in
 | Negative price event forecasting | RF + SHAP pipeline with structural break detection (Crisis_Dummy) |
 | Cross‑border interconnection efficiency | SBM‑DEA panel benchmarking across 28 EU member states |
 
+### 📌 Current Status (Aug 2026)
+- ✅ **Research Portfolio**: Core methodological repositories are now populated and publicly accessible.
+- 🔄 **Mobility Seeking**: Actively exploring Erasmus+ research traineeship opportunities with Irish energy institutions (e.g., SEAI, EirGrid, UCD Energy Institute).
+- 📧 **Open to Collaboration**: a92176@ualg.pt
+  
 ---
 
 ## 🔬 Research Focus
