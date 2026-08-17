@@ -23,7 +23,7 @@ My doctoral research develops a tripartite cumulative framework bridging strateg
 
 ## 🎯 Erasmus+ Research Internship (2026–2027)
 
-I am actively seeking a **10‑month research traineeship** with energy institutions in **Ireland and across Europe** (SEAI, EirGrid, ESB Networks, UCD Energy Institute, MaREI, and other TSO/DSO/energy market organisations) to apply my data‑driven frameworks to wind‑dominated and high‑RES electricity systems.
+I am actively seeking a research traineeship (up to 12 months) with energy institutions in **Ireland and across Europe** (SEAI, EirGrid, ESB Networks, UCD Energy Institute, MaREI, and other TSO/DSO/energy market organisations) to apply my data‑driven frameworks to wind‑dominated and high‑RES electricity systems.
 
 ### 🍀 Primary Focus: Ireland (Direct Match for EirGrid Context)
 
