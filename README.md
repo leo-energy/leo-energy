@@ -34,7 +34,7 @@ I am actively seeking a research traineeship (up to 12 months) with energy insti
 | Negative price event forecasting | RF + SHAP pipeline with structural break detection (Crisis_Dummy) |
 | Cross‑border interconnection efficiency | SBM‑DEA panel benchmarking across 28 EU member states |
 
-### 🍀 🇪🇺 Open to Wider European Opportunities
+### 🍀 EU Open to Wider European Opportunities
 
 My methodologies are transferable to any market with:
 - High renewable penetration and price volatility
